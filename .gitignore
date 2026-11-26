@@ -33,7 +33,9 @@ yarn-error.*
 # local env files
 .env*.local
 
-# typescript
+# typescripthttps://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282025%29/The-Door-2025/The-Door-2025-1080p-Hindi-WEBRip_reencoded.mp4
 *.tsbuildinfo
 
 app-example
+
+readme.md
